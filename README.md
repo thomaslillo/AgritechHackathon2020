@@ -9,4 +9,4 @@ In QGIS:
   - add a "visitor count" field and multiply based on inverse distance  to park point so we have higher counts closer to the park
   - remove geographies from postal code file and format into a list of postal codes - will act as the wifi login "output"
 
-### Step 2: Bring postal codes into python script to append CT data and create point file for heat map
+### Step 2: Bring postal codes into python script to append Census Tract areas / demographic data and create point file for heat map
