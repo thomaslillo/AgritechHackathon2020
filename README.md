@@ -13,6 +13,7 @@ https://agritechhackathon.ca/
 In QGIS:
   - create park point & 50kmtrade area around park
   - clip ON postal code file to 50 km trade area
+
 In Python:
   - add a "visitor count" field and multiply based on inverse distance  to park point so we have higher counts closer to the park
   - remove geographies from postal code file and format into a list of postal codes - will act as the wifi login "output"
