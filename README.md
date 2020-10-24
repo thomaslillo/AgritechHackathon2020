@@ -1,5 +1,8 @@
-# AgritechHackathon2020
-Work done for the 2020 Agritech Hackathon
+# Agritech Hackathon 2020 Pre Hack Challenge
+
+Work done for the 2020 Agritech Hackathon pre hack challenge which focused on measuring activity and visitor origin/demographics to Charles Daley park in Niagara, ON.
+
+https://agritechhackathon.ca/
 
 ### Step 1: Create wifi sign in splash page with postal code collection
 
